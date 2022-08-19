@@ -1,6 +1,6 @@
 ### Hi there, I'm Pie <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 - 🌱 I’m currently learning everything 🤣
-- 🎓 I'm a 3rd year undergraduate students who major in Computer Engineering at Thammasat University, Thailand.
+- 🎓 I'm a 4th year undergraduate students who major in Computer Engineering at Thammasat University, Thailand.
 
 <br />
 
